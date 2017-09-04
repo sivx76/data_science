@@ -1,2 +1,2 @@
 # data_science
-This is my test repo used fro the Coursera Data Science Specialization.
+This is my test repo used for the Coursera Data Science Specialization.
